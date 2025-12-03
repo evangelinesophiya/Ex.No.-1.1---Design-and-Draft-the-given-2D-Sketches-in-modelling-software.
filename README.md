@@ -1,4 +1,4 @@
-# Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.                                                                                                                                             DATE-10/11/2025
+# Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.                                                                                                                                           # DATE-10/11/2025
  
 ## AIM
 
